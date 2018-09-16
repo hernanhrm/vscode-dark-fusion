@@ -1,0 +1,22 @@
+{
+    "name": "vscode-dark-fusion",
+    "displayName": "VScode Dark Fusion",
+    "description": "Copia del tema \"Atom Dark Fusion\" para el editor Atom",
+    "version": "0.0.1",
+    "publisher": "vscode-dark-fusion",
+    "engines": {
+        "vscode": "^1.27.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "VScode Dark Fusion",
+                "uiTheme": "vs-dark",
+                "path": "./themes/VScode Dark Fusion-color-theme.json"
+            }
+        ]
+    }
+}
