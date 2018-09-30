@@ -1,8 +1,8 @@
 {
     "name": "vscode-dark-fusion",
     "displayName": "VScode Dark Fusion",
-    "description": "Copia del tema \"Atom Dark Fusion\" para el editor Atom",
-    "version": "0.0.1",
+    "description": "Atom's Dark Fusion theme for Visual Studio Code",
+    "version": "0.0.3",
     "publisher": "vscode-dark-fusion",
     "engines": {
         "vscode": "^1.27.0"
