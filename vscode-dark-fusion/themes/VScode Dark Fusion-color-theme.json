@@ -1670,6 +1670,12 @@
       "settings": {
         "foreground": "#44C0C6",
       }
+    },
+    {
+      "scope": "keyword.function.go,keyword.type.go,keyword.var.go,keyword.package.go,keyword.import.go",
+      "settings": {
+        "foreground": "#44C0C6"
+      }
     }
   ]
 }
